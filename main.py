@@ -1,10 +1,10 @@
-print "Hello World!"
+print "Hello Topix!"
 
-for i in range(0, 5):
+for i in range(0, 10):
     print i
 
 
-for i in range(0, 6):
+for i in range(0, 10):
     print i
 
 
